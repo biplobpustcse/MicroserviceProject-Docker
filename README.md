@@ -1,5 +1,11 @@
 ## Microservice Project with Docker and SQL Database
 
+#### docker build CMD command
+###### go to your project directory
+```
+docker build -t your-image-name .
+docker run -p 8080:80 --name your-container-name your-image-name
+```
 #### docker-compose.yml
 ```
 version: '3.5'
