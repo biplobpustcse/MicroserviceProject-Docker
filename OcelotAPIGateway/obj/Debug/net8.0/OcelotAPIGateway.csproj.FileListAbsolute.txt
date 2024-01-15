@@ -1,0 +1,84 @@
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\appsettings.Development.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\appsettings.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\ocelot.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.exe
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.deps.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.runtimeconfig.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.pdb
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\FluentValidation.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\IPAddressRange.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Ocelot.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.AssemblyInfo.cs
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets.build.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets.development.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.OcelotAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.OcelotAPIGateway.props
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OcelotAPIGateway.props
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OcelotAPIGateway.props
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.csproj.CopyComplete
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\refint\OcelotAPIGateway.dll
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.pdb
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.genruntimeconfig.cache
+F:\Practice Project\.NET 8.0\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\ref\OcelotAPIGateway.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\appsettings.Development.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\appsettings.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\ocelot.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.exe
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.deps.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.runtimeconfig.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\OcelotAPIGateway.pdb
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\FluentValidation.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\IPAddressRange.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Ocelot.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.csproj.AssemblyReference.cache
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.AssemblyInfoInputs.cache
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.AssemblyInfo.cs
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.csproj.CoreCompileInputs.cache
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cs
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.MvcApplicationPartsAssemblyInfo.cache
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets.build.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets.development.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.OcelotAPIGateway.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.OcelotAPIGateway.props
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OcelotAPIGateway.props
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OcelotAPIGateway.props
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\scopedcss\bundle\OcelotAPIGateway.styles.css
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.csproj.CopyComplete
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\refint\OcelotAPIGateway.dll
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.pdb
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\OcelotAPIGateway.genruntimeconfig.cache
+F:\Practice Project\dotNET8\MicroserviceProject\OcelotAPIGateway\obj\Debug\net8.0\ref\OcelotAPIGateway.dll
