@@ -4,7 +4,7 @@
 ###### go to your project directory
 ```
 docker build -t your-image-name .
-docker run -p 8080:80 --name your-container-name your-image-name
+docker run -p 4202:8080 --name your-container-name your-image-name
 ```
 #### docker-compose.yml
 ```
